@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wt_dc_enabled">true</string>
+    <string name="wt_dc_rcs_enabled">false</string>
+    <string name="wt_dc_send_interval_millis">6000</string>
+    <string name="wt_dc_http_connect_timeout_millis">4000</string>
+    <string name="wt_dc_battery_min_charge_percent">10</string>
+    <string name="wt_dc_event_send_maximum">50</string>
+    <string name="wt_dc_rcs_url_base">https://sdc3.10086.cn/v1/</string>
+    <string name="wt_dc_collection_url_base">https://sdc3.10086.cn/v1/</string>
+    <string name="wt_dc_dcsid">dcschx9oco4l7jmgmokfemup7_8v4e</string>
+    <string name="wt_dc_app_name">移动云VR</string>
+    <string name="wt_dc_app_publisher">咪咕视讯科技有限公司</string>
+    <string name="wt_dc_app_category">内容类</string>
+</resources>
